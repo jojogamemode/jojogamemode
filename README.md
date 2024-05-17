@@ -1,4 +1,8 @@
-### Hi there 👋
+### João Guilherme Mastrangi - 2ºB - ROBOTICA
+
+![]()![sigma trabalho robotica](https://github.com/jojogamemode/jojogamemode/assets/170127060/bdc17102-7be8-4cc0-9cbd-5a89a4c4f1aa)
+
+
 
 <!--
 **jojogamemode/jojogamemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
